@@ -11,7 +11,7 @@ const HeroSection: React.FC = () => {
           <div className="order-2 md:order-1">
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1649972904349-6e44c42644a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                <img src="https://i.ibb.co/hR937cc3/photo-2025-06-24-07-26-39.jpg" alt="photo-2025-06-24-07-26-39" border="0">
                 alt="Александр Лукиенко"
                 className="w-full h-[500px] object-cover rounded-lg shadow-2xl"
               />
